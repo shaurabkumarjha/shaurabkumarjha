@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1558C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+[Your+Shaurab Kumar Jha];Gen+AI+Engineer;Python+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+PyTorch;Building+AI+that+works+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1558C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+[Your+Shaurab];Gen+AI+Engineer;Python+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+PyTorch;Building+AI+that+works+in+production" alt="Typing SVG" />
 
 <br/>
 
@@ -83,8 +83,7 @@ profile = {
 - 60% faster than sequential execution
 - MCP tool servers + budget constraints
 - Human-in-the-loop approval
-
-`Anthropic API` `ReAct` `MCP` `asyncio`
+- Anthropic API  ReAct  MCP`  asyncio
 
 </td>
 </tr>
@@ -98,8 +97,7 @@ profile = {
 - BERT fine-tuned: 94.5% accuracy
 - SHAP explainability + Streamlit dashboard
 - Unified FastAPI service + Docker
-
-`LightGBM` `BERT` `SHAP` `PyTorch`
+- LightGBM  BERT  SHAP  PyTorch
 
 </td>
 <td width="50%">
@@ -111,8 +109,7 @@ profile = {
 - Scaled dot-product attention (from scratch)
 - Trained on Shakespeare dataset
 - Generates coherent text completions
-
-`PyTorch` `Transformers` `CUDA`
+- PyTorch Transformers CUDA
 
 </td>
 </tr>
@@ -124,8 +121,8 @@ profile = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shaurabkumarjha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurabkumarjha&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
