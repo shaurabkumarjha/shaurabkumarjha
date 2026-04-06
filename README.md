@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1558C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+[Your+Name];Gen+AI+Engineer;Python+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+PyTorch;Building+AI+that+works+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1558C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+[Your+Shaurab Kumar Jha];Gen+AI+Engineer;Python+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+PyTorch;Building+AI+that+works+in+production" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurabkumarjha)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shaurabkumarjha)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurabkumarjha@gmail.com)
 
 </div>
 
@@ -15,13 +15,13 @@
 ## 🤖 About Me
 ```python
 profile = {
-    "name":     "[Your Name]",
+    "name":     "Shaurab Kumar Jha",
     "role":     "Gen AI Engineer",
-    "journey":  "84-day Python → Gen AI intensive program",
+    "journey":  "90-day Python → Gen AI intensive program",
     "projects": "25+ production-grade AI systems",
     "goal":     "Building AI that works in production, not just notebooks",
     "looking":  "MNC role → Singapore / Dubai",
-    "location": "[Your City], India",
+    "location": "Delhi, India",
 }
 ```
 
