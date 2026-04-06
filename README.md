@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1558C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Your+Shaurab;Gen+AI+Engineer;Python+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+PyTorch;Building+AI+that+works+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1558C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shaurab;Gen+AI+Engineer;Python+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+PyTorch;Building+AI+that+works+in+production" alt="Typing SVG" />
 
 <br/>
 
@@ -83,7 +83,8 @@ profile = {
 - 60% faster than sequential execution
 - MCP tool servers + budget constraints
 - Human-in-the-loop approval
-- Anthropic API  ReAct  MCP`  asyncio
+
+`Anthropic API` `ReAct` `MCP` `asyncio`
 
 </td>
 </tr>
@@ -97,7 +98,8 @@ profile = {
 - BERT fine-tuned: 94.5% accuracy
 - SHAP explainability + Streamlit dashboard
 - Unified FastAPI service + Docker
-- LightGBM  BERT  SHAP  PyTorch
+
+`LightGBM` `BERT` `SHAP` `PyTorch`
 
 </td>
 <td width="50%">
@@ -109,7 +111,8 @@ profile = {
 - Scaled dot-product attention (from scratch)
 - Trained on Shakespeare dataset
 - Generates coherent text completions
-- PyTorch Transformers CUDA
+
+`PyTorch` `Transformers` `CUDA`
 
 </td>
 </tr>
@@ -144,7 +147,7 @@ profile = {
 | 🚀 Gen AI | 70–80 | LLMs, RAG, Fine-Tuning, Agents, MCP |
 | 🏭 Production | 81–90 | Deployment, Safety, Observability, Governance |
 
-**[📂 View Full Journey →](./python-genai-journey)**
+**[📂 View Full Journey →](https://github.com/shaurabkumarjha/python-genai-journey)**
 
 ---
 
@@ -152,6 +155,6 @@ profile = {
 
 *"Built in public. Every commit is a step forward."* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=1558C0&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=shaurabkumarjha&color=1558C0&style=flat)
 
 </div>
