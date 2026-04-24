@@ -149,6 +149,9 @@ profile = {
 
 **[📂 View Full Journey →](https://github.com/shaurabkumarjha/python-genai-journey)**
 
+**[📂 Capstone Project →](https://github.com/shaurabkumarjha/Capstone-Project)**
+
+**[📂 Python-to-Gen-AI-Journey →](https://github.com/shaurabkumarjha/Python-to-Gen-AI-Projects-Journey)**
 ---
 
 <div align="center">
