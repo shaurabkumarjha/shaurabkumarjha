@@ -151,7 +151,7 @@ profile = {
 
 **[📂 Capstone Project →](https://github.com/shaurabkumarjha/Capstone-Project)**
 
-**[📂 Python-to-Gen-AI-Projects-Journey →](https://github.com/shaurabkumarjha/Python-to-Gen-AI-Projects-Journeyt)**
+**[📂 Python-to-Gen-AI-Projects-Journey →](https://github.com/shaurabkumarjha/Python-to-Gen-AI-Projects-Journey)**
 
 ---
 
